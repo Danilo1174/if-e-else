@@ -6,7 +6,9 @@ namespace atividade_if_else
     {
         static void Main(string[] args)
         {
-            // Exercicio 1
+            #region exercicio 1
+
+            
 
             //int a, b;
 
@@ -27,9 +29,9 @@ namespace atividade_if_else
 
 
 
-            //----------------------------------------------------------------------------------------
+            #endregion
 
-
+            #region exercicio 2
             // Exercicio 2
 
             //int codigo, quantidade;
@@ -73,9 +75,9 @@ namespace atividade_if_else
 
             // Console.WriteLine("total: R${0:f2}", preco);
 
+            #endregion
 
-
-            //----------------------------------------------------------------------------------------
+            #region exercicio 3
 
             // Exercicio 3
 
@@ -115,7 +117,7 @@ namespace atividade_if_else
             //{
             //  Console.WriteLine("q4");
             //}
-
+            #endregion
         }
     }
 }
